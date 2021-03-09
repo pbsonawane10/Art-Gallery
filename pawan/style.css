@@ -1,0 +1,120 @@
+#slider.carousel-caption{
+	top:50%;
+}
+#slider.carousel-inner{
+	height: 40vw;
+
+}
+.navbar{
+	background-color: #3F729B;
+	font-size: 18px;
+}
+.carousel-item, .carousel-inner{
+	height: 500px;
+	width:100%;
+	color: red;
+} 
+
+.carousel-caption h5{
+	color: white;
+	
+	font-family: 'Gelasio', serif;
+	font-size: 40px;
+}
+ .card-img-top{
+	font-size: 2 rem;
+	text-align: center;
+	width: 100%;
+}
+.form-group, .form-check{
+	text-align: center;
+	
+	color:black;
+}
+#About{
+	
+	font-family: 'Roboto', sans-serif;
+font-family: 'Girassol', cursive;
+font-family: 'Gelasio', serif;
+background-color: #ab47bc ;
+color: white;
+
+}
+#footer{
+	color: black;
+	background-color:lightblue;
+	font-family: 'Righteous', cursive;
+
+}
+#Services{
+	font-family: 'Roboto', sans-serif;
+font-family: 'Girassol', cursive;
+color: white;
+}
+#Contact{
+font-family: 'Roboto', sans-serif;
+font-family: 'Girassol', cursive;
+font-family: 'Gelasio', serif;
+font-family: 'PT Serif', serif;
+font-family: 'Lobster', cursive;
+margin: 30px;
+background-color: #2BBBAD;
+
+
+}
+#team{
+	font-family: 'Roboto', sans-serif;
+font-family: 'Girassol', cursive;
+font-family: 'Gelasio', serif;
+font-family: 'PT Serif', serif;
+color: white;
+margin: 30px;
+}
+#Gallery{
+	font-family: 'Roboto', sans-serif;
+font-family: 'Girassol', cursive;
+font-family: 'Gelasio', serif;
+font-family: 'PT Serif', serif;
+font-family: 'Lobster', cursive;
+
+
+}
+.carousel-caption{
+	text-align: center;
+}
+.navbar a:hover {
+  background-color:#000000;
+  display: inline-block;
+}
+.fa-facebook{
+	color: #3b5998;
+}
+.fa-instagram{
+	color: #d81b60;
+}
+.fa-youtube{
+	color: #bb0000;
+}
+.fa-whatsapp{
+	color: #007E33;
+}
+.hr1 {
+  border-top: 5px solid red;
+  border-radius: 5px;
+  color: yellow;
+}
+.figure{
+	
+	padding: 70px 0px 20px;
+	width: 100%;
+	margin-top: 10px;
+}
+@media(max-width: 479px){
+#service .card-img-top{
+	font-size: 2 rem;
+	text-align: center;
+	width: 100%;
+}	
+}
+
+
